@@ -4,7 +4,7 @@ I'm a Machine Learning Engineer who enjoys building practical, reliable ML syste
 
 I’ve worked across AI governance, public R&D analytics, and ML infrastructure, and I’m especially interested in evaluation pipelines, LLM systems, and lightweight models for edge devices.
 
---
+---
 
 ## What I Do
 
@@ -38,8 +38,6 @@ Compressed a 95M-parameter speech model to under 300KB while keeping accuracy hi
 
 **LLMonopoly**  
 A multi-LLM Monopoly agent using routing, caching, and FastAPI microservices. Improved win rate significantly with lightweight ensemble logic.
-
----
 
 ## Interests
 
