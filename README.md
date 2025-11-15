@@ -4,16 +4,12 @@ I'm a Machine Learning Engineer who enjoys building practical, reliable ML syste
 
 I’ve worked across AI governance, public R&D analytics, and ML infrastructure, and I’m especially interested in evaluation pipelines, LLM systems, and lightweight models for edge devices.
 
--
-
 ## What I Do
 
 - Build end-to-end ML workflows: data pipelines, training, evaluation, deployment  
 - Work with large datasets (PySpark, SQL) and production ML systems  
 - Design model evaluation and compliance pipelines  
 - Explore TinyML and efficient model architectures  
-
----
 
 ## Experience
 
@@ -29,8 +25,6 @@ Automated funding review workflows and improved forecasting systems with faster,
 **KIPF & KIET — Machine Learning Engineer / Intern**  
 Developed ETL pipelines, integrated large fiscal datasets, and built real-time dashboards for government analytics.
 
----
-
 ## Projects
 
 **TinyML Knowledge Distillation**  
@@ -45,8 +39,6 @@ A multi-LLM Monopoly agent using routing, caching, and FastAPI microservices. Im
 - LLM routing and safety  
 - ETL and data platforms  
 - TinyML and compact model design  
-
----
 
 ## Contact
 
