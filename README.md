@@ -42,7 +42,7 @@ A multi-LLM Monopoly agent using routing, caching, and FastAPI microservices. Im
 
 ## Contact
 
-Email: ujpjm21@gmail.com
+Email: ujpjm21@gmail.com  
 Portfolio: https://jimin-park.me  
-LinkedIn: https://linkedin.com/in/jimin-park-ml  
+LinkedIn: https://linkedin.com/in/jimin-park-ml
 
