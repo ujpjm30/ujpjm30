@@ -1,6 +1,6 @@
 # Hi, I'm Jimin Park
 
-I'm a Machine Learning Engineer who enjoys building practical, reliable ML systems. Most of my work sits at the intersection of data engineering, model development, and deployment — making sure things not only work, but work consistently at scale.
+I'm a ML Data Scientist who enjoys building practical, reliable ML systems. Most of my work sits at the intersection of data engineering, model development, and deployment — making sure things not only work, but work consistently at scale.
 
 I’ve worked across AI governance, public R&D analytics, and ML infrastructure, and I’m especially interested in evaluation pipelines, LLM systems, and lightweight models for edge devices.
 
