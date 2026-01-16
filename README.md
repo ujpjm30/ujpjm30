@@ -13,16 +13,16 @@ I’ve worked across AI governance, public R&D analytics, and ML infrastructure,
 
 ## Experience
 
-**IBM VSIP — Machine Learning Engineer Intern**  
+**IBM VSIP — Data Scientist Intern**  
 Built compliance-to-policy plugins and automated evaluation pipelines. Containerized governance modules to streamline deployment and reduce false positives.
 
-**KIST — Machine Learning Engineer**  
+**KIST — Data Scientist**  
 Designed PySpark pipelines over multi-million-record datasets with high recall. Integrated NLP models into CI/CD dashboards and published first-author research.
 
-**KISTEP — Machine Learning Engineer**  
+**KISTEP — Data Scientist**  
 Automated funding review workflows and improved forecasting systems with faster, cleaner data pipelines.
 
-**KIPF & KIET — Machine Learning Engineer / Intern**  
+**KIPF & KIET — Data Scientist**  
 Developed ETL pipelines, integrated large fiscal datasets, and built real-time dashboards for government analytics.
 
 ## Projects
@@ -36,13 +36,12 @@ A multi-LLM Monopoly agent using routing, caching, and FastAPI microservices. Im
 ## Interests
 
 - ML systems and evaluation  
-- LLM routing and safety  
-- ETL and data platforms  
+- LLM routing and safety    
 - TinyML and compact model design  
 
 ## Contact
 
-Email: ujpjm21@gmail.com  
+Email: jimin.park.mlds@gmail.com  
 Portfolio: https://jimin-park.me  
 LinkedIn: https://linkedin.com/in/jimin-park-ml
 
