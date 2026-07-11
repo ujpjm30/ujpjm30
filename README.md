@@ -1,51 +1,47 @@
 # Hi, I'm Jimin Park
 
-I'm a Data Scientist who enjoys building practical, reliable ML systems. Most of my work sits at the intersection of data engineering, model development, and deployment | making sure things not only work, but work consistently at scale.
-
-I’ve worked across AI governance, public R&D analytics, and ML infrastructure, and I’m especially interested in evaluation pipelines, LLM systems, and lightweight models for edge devices.
+I'm an AI Engineer specializing in LLM evaluation and retrieval-augmented generation for regulated, high-stakes domains. I build LLM systems that can be trusted — and measured: citation-grounded RAG pipelines, automated evaluation suites, and benchmarks that show exactly where models break.
 
 ## What I Do
-
-- Build end-to-end ML workflows: RAG pipelines, training, and automated evaluation  
-- Work with large datasets: 5M+ records using PySpark and SQL  
-- Design model evaluation and compliance pipelines  
-- Explore TinyML and efficient model architectures
-
-## Technical Skills
-
-- Product Analytics: A/B Testing, Experiment Design, Metrics Definition & Tracking, Causal & Funnel Analysis
-- Data & Programming: Python (Pandas, NumPy), SQL, PySpark, Statistical Modeling
-- Machine Learning: Scikit-learn, LightGBM, PyTorch, Feature Engineering, Model Evaluation, Embeddings, LLM
-- Systems & Tools: ETL Pipelines, SQL-based Data Warehousing, Docker, AWS
+- Design LLM & agent evaluation: benchmarks, ground-truth datasets, automated eval suites
+- Build RAG pipelines with citation grounding and refusal handling for compliance-critical use cases
+- Run multi-LLM ensembles and fully local/private deployments (Ollama)
+- Apply 3+ years of production ML experience from national-scale research analytics
 
 ## Experience
+**AI Engineer — Labelbox (via Alignerr)** | Feb 2026 – Present  
+Calibrate multi-LLM evaluation batches producing RLHF ground truth for frontier models; build human-in-the-loop workflows validating cross-model consistency for agentic AI reliability.
 
-**IBM VSIP — Data Scientist Intern**  
-Architected a RAG pipeline with sentence-transformers to automate policy evaluations, reducing manual security audit workload by 26% while meeting NIST AI RMF standards. Built monitoring dashboards using Precision-Recall metrics to evaluate model readiness and resolved systematic rule conflicts in OSCAL-based artifacts using domain-tuned LLMs.
+**AI Engineer Intern — IBM** | May 2025 – Aug 2025  
+Engineered a RAG pipeline automating OSCAL / NIST 800-53 compliance mapping, resolving an 80% manual cross-referencing bottleneck; diagnosed data-coverage gaps via segmented precision–recall analysis and built a Power BI dashboard for MLOps monitoring.
 
-**National Research Institutes of South Korea (KIST, KISTEP, KIPF, KIET) — Data Scientist**  
-Improved research search efficiency by 49% by resolving metadata inconsistencies across 5M+ records using SBERT and XGBoost. Increased national R&D allocation by $45M+ through NLP-based topic modeling and cut $120K+ in operational costs by automating decision cycles with Random Forest pipelines. Improved forecasting accuracy by 10% using BERT-based sentiment analysis to extract market signals.
+**Machine Learning Engineer — National Research Institutes of Korea (KIST, KISTEP, KIPF, KIET)** | Jul 2021 – Apr 2024  
+Built an LDA topic-modeling pipeline that secured a $45M+ national R&D budget expansion (published at SETM); deployed SBERT/XGBoost semantic search boosting Web of Science search efficiency by 49%; productionized a Random Forest evaluation framework cutting decision cycles by 85% and saving $120K.
 
-**Republic of Korea Army — Web Developer**  
-Managed a military LMS and MOOC platform, optimizing web content delivery and ensuring consistent system availability.
+**Software Engineer — Republic of Korea Army** | Feb 2017 – Feb 2019  
+Architected military LMS/MOOC infrastructure, optimizing data delivery and system reliability.
 
-## Projects
+## Featured Projects
+**[NIST 800-53 Compliance RAG with Gap Detection](https://github.com/ujpjm30/NIST-Compliance-RAG-with-Gap-Detection)**  
+Fully local RAG pipeline (Llama 3 via Ollama + FAISS, zero data egress) enforcing inline control-ID citations — the model refuses rather than hallucinates when retrieval finds no support. Score-based semantic gap detection plus an automated evaluation suite measuring ~87% classification accuracy.
 
-**LLMonopoly**  
-Multi LLM Ensemble Agent Constructed a Monopoly environment across 5 LLMs to benchmark accuracy, consistency, latency, and cost efficiency for routing decisions. Improved agent win rate from 25% to 50% through experimentation with ensemble routing logic.
+**[LLMonopoly — Agentic LLM Evaluation Benchmark](https://github.com/ujpjm30/LLMONOPOLY_EMSEMBLE-MODEL)**  
+Simulation-based benchmark evaluating 5 open-weight LLMs (Llama 3.1, Qwen 2.5, Mistral, Phi-3, Gemma 2) as autonomous agents in long-horizon decision-making. An ensemble voting agent outperformed every single model with a 60% win rate against a heuristic baseline. Run on H100 GPUs (Georgia Tech PACE).
 
-**Knowledge Distillation for TinyML / Embedded AI**  
-Compressed a 95M-parameter Transformer into a 90K-parameter TinyML model (300KB) while sustaining 94.8% accuracy for on-device inference. Utilized SageMaker with Lambda pipelines to compare model configurations and performance under edge constraints.
+**[Knowledge Distillation for TinyML / Embedded AI](https://github.com/ujpjm30/Knowledge-Distillation-for-TinyML-Embedded-AI)**  
+Compressed a 95M-parameter Transformer into a 90K-parameter student model while sustaining 94.8% accuracy for on-device inference, with ablations over distillation temperature and loss weighting.
+
+## Technical Skills
+- **Languages & Core ML:** Python, SQL, JavaScript, PyTorch, Transformers, SentenceTransformers
+- **LLM Engineering:** RAG pipelines (FAISS, LangChain), LLM & agent evaluation / benchmark design, RLHF ground-truth calibration, multi-LLM ensembles, prompt engineering (citation grounding, refusal handling)
+- **Infra & MLOps:** Docker, FastAPI, PostgreSQL, AWS, CI/CD (GitHub Actions), model monitoring
 
 ## Interests
-
-- ML Systems & Evaluation: Designing robust frameworks to measure and monitor model impact in production.  
-- LLM Orchestration & Safety: Optimizing LLM routing for cost/latency and ensuring compliance with safety standards.  
-- Efficient ML (TinyML): Developing compact, high-performance models for resource-constrained environments.  
+- **LLM Evaluation & Reliability:** benchmarks and eval pipelines that measure whether AI systems can actually be trusted in production
+- **Agentic Systems:** evaluating and orchestrating LLMs on long-horizon, multi-step tasks
+- **AI for Regulated Domains:** security & compliance (NIST 800-53, OSCAL), local/private deployment, hallucination-safe design
 
 ## Contact
-
 Email: jimin.park.mlds@gmail.com  
 Portfolio: https://jimin-park.me  
 LinkedIn: https://linkedin.com/in/jimin-park-ml
-
