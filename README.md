@@ -15,7 +15,7 @@ Calibrate multi-LLM evaluation batches producing RLHF ground truth for frontier 
 **AI Engineer Intern — IBM** | May 2025 – Aug 2025  
 Engineered a RAG pipeline automating OSCAL / NIST 800-53 compliance mapping, resolving an 80% manual cross-referencing bottleneck; diagnosed data-coverage gaps via segmented precision–recall analysis and built a Power BI dashboard for MLOps monitoring.
 
-**Machine Learning Engineer — National Research Institutes of Korea (KIST, KISTEP, KIPF, KIET)** | Jul 2021 – Apr 2024  
+**Machine Learning Engineer — National Research Institutes of Korea (KIST, KISTEP, KIPF, KIET)** | Jul 2020 – Apr 2024  
 Built an LDA topic-modeling pipeline that secured a $45M+ national R&D budget expansion (published at SETM); deployed SBERT/XGBoost semantic search boosting Web of Science search efficiency by 49%; productionized a Random Forest evaluation framework cutting decision cycles by 85% and saving $120K.
 
 **Software Engineer — Republic of Korea Army** | Feb 2017 – Feb 2019  
