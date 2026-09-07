@@ -6,7 +6,7 @@ I'm an AI/ML Engineer specializing in LLM evaluation and retrieval-augmented gen
 - Design LLM & agent evaluation: benchmarks, ground-truth datasets, automated eval suites
 - Build RAG pipelines with citation grounding and refusal handling for compliance-critical use cases
 - Run multi-LLM ensembles and fully local/private deployments (Ollama)
-- Apply 3+ years of production ML experience from national-scale research analytics
+- Apply 4+ years of production ML experience from national-scale research analytics
 
 ## Experience
 **AI Engineer — Labelbox (via Alignerr)** | Feb 2026 – Present  
