@@ -1,6 +1,6 @@
 # Hi, I'm Jimin Park
 
-I'm an AI/ML Engineer specializing in LLM evaluation and retrieval-augmented generation for regulated, high-stakes domains. I build LLM systems that can be trusted — and measured: citation-grounded RAG pipelines, automated evaluation suites, and benchmarks that show exactly where models break.
+I'm an AI/ML Engineer specializing in LLM evaluation and retrieval-augmented generation for regulated, high-stakes domains. I build LLM systems that can be trusted and measured: citation-grounded RAG pipelines, automated evaluation suites, and benchmarks that show exactly where models break.
 
 ## What I Do
 - Design LLM & agent evaluation: benchmarks, ground-truth datasets, automated eval suites
